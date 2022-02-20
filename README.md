@@ -9,3 +9,9 @@
 |2|简单|[多数元素](https://leetcode-cn.com/problems/majority-element/)|[200313.py](Code/200313.py)|48ms|15.2MB|
 |3|困难|[和至少为 K 的最短子数组](https://leetcode-cn.com/problems/shortest-subarray-with-sum-at-least-k/)|[200313.py](Code/200313.py)|没做出来|留着填坑|
 |4|中等|[最长上升子序列](https://leetcode-cn.com/problems/longest-increasing-subsequence//)|[200314.py](Code/200314.py)|2240ms|13.7MB|
+|5|中等|[设计链表](https://leetcode-cn.com/problems/design-linked-list/)|[220219.py](Code/220219.py)|204ms|15.7 MB|
+|6|简单|[反转链表](https://leetcode-cn.com/problems/reverse-linked-list/)|[220220.py](Code/220220.py)|44ms|16.1 MB|
+|7|中等|[两两交换链表中的节点](https://leetcode-cn.com/problems/swap-nodes-in-pairs/)|[220220_2.py](Code/220220_2.py)|32ms|14.9 MB|
+|8|中等|[删除链表的倒数第 N 个结点](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/)|[220220_3.py](Code/220220_3.py)|52ms|14.9MB|
+|9|简单|[链表相交](https://leetcode-cn.com/problems/intersection-of-two-linked-lists-lcci/)|[220220_4.py](Code/220220_4.py)| 152 ms |29.6MB|
+|10|中等|[环形链表 II](https://leetcode-cn.com/problems/linked-list-cycle-ii/)|[220220_5.py](Code/220220_5.py)| 48  ms |18.8 MB|
