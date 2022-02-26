@@ -13,5 +13,10 @@
 |6|简单|[反转链表](https://leetcode-cn.com/problems/reverse-linked-list/)|[220220.py](Code/220220.py)|44ms|16.1 MB|
 |7|中等|[两两交换链表中的节点](https://leetcode-cn.com/problems/swap-nodes-in-pairs/)|[220220_2.py](Code/220220_2.py)|32ms|14.9 MB|
 |8|中等|[删除链表的倒数第 N 个结点](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/)|[220220_3.py](Code/220220_3.py)|52ms|14.9MB|
-|9|简单|[链表相交](https://leetcode-cn.com/problems/intersection-of-two-linked-lists-lcci/)|[220220_4.py](Code/220220_4.py)| 152 ms |29.6MB|
-|10|中等|[环形链表 II](https://leetcode-cn.com/problems/linked-list-cycle-ii/)|[220220_5.py](Code/220220_5.py)| 48  ms |18.8 MB|
+|9|简单|[链表相交](https://leetcode-cn.com/problems/intersection-of-two-linked-lists-lcci/)|[220220_4.py](Code/220220_4.py)|152 ms |29.6MB|
+|10|中等|[环形链表 II](https://leetcode-cn.com/problems/linked-list-cycle-ii/)|[220220_5.py](Code/220220_5.py)|48ms|18.8MB|
+|11|简单|[有效的字母异位词](https://leetcode-cn.com/problems/valid-anagram/)|[220226.py](Code/220226.py)|44ms|15.7MB|
+|12|简单|[快乐数](https://leetcode-cn.com/problems/happy-number/)|[220226_2.py](Code/220226_2.py)|36ms|15MB|
+|13|简单|[两数之和](https://leetcode-cn.com/problems/two-sum/)|[220226_3.py](Code/220226_3.py)|40ms|16MB|
+|14|中等|[三数之和](https://leetcode-cn.com/problems/3sum/)|[220226_4.py](Code/220226_4.py)|
+984ms|17.9MB|
