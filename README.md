@@ -20,3 +20,7 @@
 |13|简单|[两数之和](https://leetcode-cn.com/problems/two-sum/)|[220226_3.py](Code/220226_3.py)|40ms|16MB|
 |14|中等|[三数之和](https://leetcode-cn.com/problems/3sum/)|[220226_4.py](Code/220226_4.py)|
 984ms|17.9MB|
+|15|中等|[四数之和](https://leetcode-cn.com/problems/4sum/)|[220228.py](Code/220228.py)|
+2016 ms| 15.1 MB|
+|16|中等|[四数之和II](https://leetcode-cn.com/problems/4sum-ii/)|[220301.py](Code/220301.py)|
+536ms|15 MB|
