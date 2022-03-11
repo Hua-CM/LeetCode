@@ -22,3 +22,7 @@
 |15|中等|[四数之和](https://leetcode-cn.com/problems/4sum/)|[220228.py](Code/220228.py)|2016 ms| 15.1MB|
 |16|中等|[四数之和II](https://leetcode-cn.com/problems/4sum-ii/)|[220301.py](Code/220301.py)|536ms|15MB|
 |17|简单|[赎金信](https://leetcode-cn.com/problems/ransom-note/)|[220301_2.py](Code/220301_2.py)|108ms| 15.3MB|
+|18|简单|[反转字符串 II](https://leetcode-cn.com/problems/reverse-string-ii)|[220301_3.py](Code/220301_3.py)|36ms|15.2MB|
+|19|简单|[实现 strStr()](https://leetcode-cn.com/problems/implement-strstr/)|[220308.py](Code/220308.py)|64ms|17MB|
+|20|简单|[重复的子字符串](https://leetcode-cn.com/problems/repeated-substring-pattern/)|[2203010.py](Code220310.py)|112ms|15.5MB|
+|21|简单|[移除元素](https://leetcode-cn.com/problems/remove-element/)|[2203012.py](Code220312.py)|36ms|15MB|
