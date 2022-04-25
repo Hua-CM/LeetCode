@@ -31,5 +31,6 @@
 |232|   简单   |[用栈实现队列](https://leetcode-cn.com/problems/implement-queue-using-stacks/)| [220329.py](Code/220329.py)      |    32ms |  14.9MB |
 |225|   简单   |[用队列实现栈](https://leetcode-cn.com/problems/implement-stack-using-queues/)| [220414.py](Code/220414.py) |    28ms |  15.1MB |
 |20|   简单   |[有效的括号](https://leetcode-cn.com/problems/valid-parentheses/)| [220420.py](Code/220420.py)    |    36ms |    15MB |
-|1047|   简单   |[删除字符串中的所有相邻重复项](https://leetcode-cn.com/problems/remove-all-adjacent-duplicates-in-string/)| [220421.py](Code/220421.py)    |    64ms |    16.1MB |
-|150|   中等   |[逆波兰表达式求值](https://leetcode-cn.com/problems/evaluate-reverse-polish-notation//)| [220421_2.py](Code/220421_2.py)    |    40ms |    16.4MB |
+|1047|   简单   |[删除字符串中的所有相邻重复项](https://leetcode-cn.com/problems/remove-all-adjacent-duplicates-in-string/)| [220421.py](Code/220421.py)    |    64ms |  16.1MB |
+|150|   中等   |[逆波兰表达式求值](https://leetcode-cn.com/problems/evaluate-reverse-polish-notation//)| [220421_2.py](Code/220421_2.py)    |    40ms |  16.4MB |
+|239|   困难   |[滑动窗口最大值](https://leetcode-cn.com/problems/sliding-window-maximum/)| [220425.py](Code/220425.py)    |  576 ms | 28.4 MB |
